@@ -9,3 +9,8 @@ Artigos do site:
 .Saca Mágica
 .Porta Travessas
 .Porta Guardanapos
+
+Cores usadas no site:
+#FFEFEF
+#FFFFFF
+#3B1717
