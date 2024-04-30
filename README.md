@@ -11,6 +11,6 @@ Artigos do site:
 .Porta Guardanapos
 
 Cores usadas no site:
-#FFEFEF
+#FFEFEF - Cru
 #FFFFFF - Branco
 #3B1717 - Bordaux
