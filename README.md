@@ -12,5 +12,5 @@ Artigos do site:
 
 Cores usadas no site:
 #FFEFEF
-#FFFFFF
-#3B1717
+#FFFFFF - Branco
+#3B1717 - Bordaux
