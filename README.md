@@ -1,2 +1,3 @@
 # projetosite
-Projeto António Santos
+Projeto António Santos e Carolina Brito
+Site da marca Carpediem by Paula Brito
