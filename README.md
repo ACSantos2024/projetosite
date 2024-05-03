@@ -14,3 +14,5 @@ Cores usadas no site:
 #FFEFEF - Cru
 #FFFFFF - Branco
 #3B1717 - Bordaux
+
+Tipo de letra: Kenao Sans Serif
