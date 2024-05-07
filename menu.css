@@ -1,0 +1,23 @@
+.topnav {
+    background-color: #ffefef;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #3B1717;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ffffff;
+    color: #3B1717;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+}
