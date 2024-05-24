@@ -21,3 +21,24 @@
     display: flex;
     align-items: center;
 }
+
+.main {
+  background-image: url('anexos/IMG-20240518-WA0005.jpg');
+  height: calc(100vh - 152px);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  color: #ffefef;
+  top: 20px;
+  left: 200px;
+}
+
+body {
+  margin: 0%;
+}
+
