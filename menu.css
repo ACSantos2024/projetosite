@@ -57,3 +57,34 @@ body {
 article.mala { width: 40%;}
 
 article.mala img { max-width: 100%;}
+
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background:#ffffff;
+  padding: 20px;
+}
+article.Paula { 
+  width: 40%;
+  padding: 20px;
+}
+
+.content {
+text-align: center;
+font-size: medium;
+}
+
+footer {
+  background-color: #ffefef;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
