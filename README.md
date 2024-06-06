@@ -19,5 +19,5 @@ Tipo de letra: Kenao Sans Serif
 
 Link para o website: https://acsantos2024.github.io/projetosite/projetofinal.html
 
-![CarpeDiem](https://github.com/ACSantos2024/projetosite/assets/163567418/17f4a26c-6d76-4868-954c-cb9d72c480fe)
 
+![frame](https://github.com/ACSantos2024/projetosite/assets/163567418/75ae48b8-afa1-4b1a-a8ef-82f15e5891aa)
