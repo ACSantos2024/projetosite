@@ -19,5 +19,4 @@ Tipo de letra: Kenao Sans Serif
 
 Link para o website: https://acsantos2024.github.io/projetosite/projetofinal.html
 
-
-![frame](https://github.com/ACSantos2024/projetosite/assets/163567418/75ae48b8-afa1-4b1a-a8ef-82f15e5891aa)
+![frame (1)](https://github.com/ACSantos2024/projetosite/assets/163567418/08ca77a2-3871-4086-9b24-90fc15a468e6)
